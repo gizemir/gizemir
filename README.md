@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gizem EMİR @gizemir
+- 👀 I’m interested in software engineering. 
+- 🌱 I’m currently learning python and machine learning.
+- 📫 My e-mail address: gizemir17.10@gmail.com 
